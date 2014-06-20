@@ -1,0 +1,63 @@
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\AccessibleMarshal.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\breakpadinjector.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\crashreporter.exe
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\crashreporter.ini
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\D3DCompiler_43.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\freebl3.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\gkmedias.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\IA2Marshal.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\js-gdb.py
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\js.exe
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\libEGL.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\libGLESv2.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\mozalloc.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\mozglue.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\mozjs.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\msvcp100.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\msvcr100.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\nss3.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\nssckbi.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\nssdbm3.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\platform.ini
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\plugin-container.exe
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\plugin-hang-ui.exe
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\redit.exe
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\softokn3.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\updater.exe
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\xul.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\xulrunner-stub.exe
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\xulrunner.exe
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\dependentlibs.list
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\dictionaries\en-US.aff
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\dictionaries\en-US.dic
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\freebl3.chk
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\LICENSE
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\nssdbm3.chk
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\omni.ja
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\precomplete
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\README.xulrunner
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\xulrunner\softokn3.chk
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\mygames.s3db
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Video Game Tracker.exe.config
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Video Game Tracker.exe
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Video Game Tracker.pdb
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Video Game Tracker.xml
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Geckofx-Core.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Geckofx-Winforms.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Newtonsoft.Json.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\System.Data.SQLite.dll
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Geckofx-Core.pdb
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Geckofx-Winforms.pdb
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Newtonsoft.Json.pdb
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\Newtonsoft.Json.xml
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\bin\Debug\System.Data.SQLite.pdb
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\obj\x86\Debug\Video_Game_Tracker.Form1.resources
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\obj\x86\Debug\Video_Game_Tracker.Resources.resources
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\obj\x86\Debug\Video Game Tracker.vbproj.GenerateResource.Cache
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\obj\x86\Debug\Video Game Tracker.exe
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\obj\x86\Debug\Video Game Tracker.xml
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\obj\x86\Debug\Video Game Tracker.pdb
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\obj\x86\Debug\Video Game Tracker.vbprojResolveAssemblyReference.cache
+E:\Google Drive\VB.Net Projects\Video Game Tracker\Video Game Tracker\obj\x86\Debug\Video_Game_Tracker.Splashscreen.resources

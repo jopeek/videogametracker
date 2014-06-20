@@ -1,0 +1,259 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VideoGameTracker
+</name>
+</assembly>
+<members>
+<member name="P:Video_Game_Tracker.GamesRadar.games.total_rows">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.games.game">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.games">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gamesGame.id">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gamesGame.name">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.gamesGame">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.NewDataSet.Items2">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.NewDataSet">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.blank">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.Buzz_Star_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.Buzz_Star_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.cancel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.externallink">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.header">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.header_dark">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.headerbg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.headerbg_dark">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.link">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.paypal_donate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.spinner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.spinner_dark">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.splash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Video_Game_Tracker.My.Resources.Resources.topbarbg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Video_Game_Tracker.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Video_Game_Tracker.SQLiteDatabase.#ctor">
+	<summary>
+     Default Constructor for SQLiteDatabase Class.
+ </summary>
+</member><member name="M:Video_Game_Tracker.SQLiteDatabase.#ctor(System.String)">
+	<summary>
+     Single Param Constructor for specifying the DB file.
+ </summary>
+	<param name="inputFile">The File containing the DB</param>
+</member><member name="M:Video_Game_Tracker.SQLiteDatabase.#ctor(System.Collections.Generic.Dictionary{System.String,System.String})">
+	<summary>
+     Single Param Constructor for specifying advanced connection options.
+ </summary>
+	<param name="connectionOpts">A dictionary containing all desired options and their values</param>
+</member><member name="M:Video_Game_Tracker.SQLiteDatabase.GetDataTable(System.String)">
+	<summary>
+     Allows the programmer to run a query against the Database.
+ </summary>
+	<param name="sql">The SQL to run</param>
+	<returns>A DataTable containing the result set.</returns>
+</member><member name="M:Video_Game_Tracker.SQLiteDatabase.ExecuteNonQuery(System.String)">
+	<summary>
+     Allows the programmer to interact with the database for purposes other than a query.
+ </summary>
+	<param name="sql">The SQL to be run.</param>
+	<returns>An Integer containing the number of rows updated.</returns>
+</member><member name="M:Video_Game_Tracker.SQLiteDatabase.ExecuteScalar(System.String)">
+	<summary>
+     Allows the programmer to retrieve single items from the DB.
+ </summary>
+	<param name="sql">The query to run.</param>
+	<returns>A string.</returns>
+</member><member name="M:Video_Game_Tracker.SQLiteDatabase.Update(System.String,System.Collections.Generic.Dictionary{System.String,System.String},System.String)">
+	<summary>
+     Allows the programmer to easily update rows in the DB.
+ </summary>
+	<param name="tableName">The table to update.</param>
+	<param name="data">A dictionary containing Column names and their new values.</param>
+	<param name="where">The where clause for the update statement.</param>
+	<returns>A boolean true or false to signify success or failure.</returns>
+</member><member name="M:Video_Game_Tracker.SQLiteDatabase.Delete(System.String,System.String)">
+	<summary>
+     Allows the programmer to easily delete rows from the DB.
+ </summary>
+	<param name="tableName">The table from which to delete.</param>
+	<param name="where">The where clause for the delete.</param>
+	<returns>A boolean true or false to signify success or failure.</returns>
+</member><member name="M:Video_Game_Tracker.SQLiteDatabase.Insert(System.String,System.Collections.Generic.Dictionary{System.String,System.String})">
+	<summary>
+     Allows the programmer to easily insert into the DB
+ </summary>
+	<param name="tableName">The table into which we insert the data.</param>
+	<param name="data">A dictionary containing the column names and data for the insert.</param>
+	<returns>A boolean true or false to signify success or failure.</returns>
+</member><member name="M:Video_Game_Tracker.SQLiteDatabase.ClearDB">
+	<summary>
+     Allows the programmer to easily delete all data from the DB.
+ </summary>
+	<returns>A boolean true or false to signify success or failure.</returns>
+</member><member name="M:Video_Game_Tracker.SQLiteDatabase.ClearTable(System.String)">
+	<summary>
+     Allows the user to easily clear all data from a specific table.
+ </summary>
+	<param name="table">The name of the table to clear.</param>
+	<returns>A boolean true or false to signify success or failure.</returns>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.id">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.description">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.designer">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.updated_date">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.url">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.technical_features">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.min_system_specs">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.recommended_system_specs">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.multiplayer_modes">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.name">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.platform">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.genre">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.expected_release_date">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.release_date">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.upc">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.images">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.game.links">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.game">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameName.us">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameName.uk">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.gameName">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gamePlatform.id">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gamePlatform.name">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.gamePlatform">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameGenre.id">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameGenre.name">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.gameGenre">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameDevelopersCompany.id">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameDevelopersCompany.name">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.gameDevelopersCompany">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gamePublishers.us">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gamePublishers.uk">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.gamePublishers">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameExpected_release_date.us">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameExpected_release_date.uk">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.gameExpected_release_date">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameRelease_date.us">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.gameRelease_date">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameUpc.us">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameUpc.uk">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.gameUpc">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameImages.thumbnail">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.gameImages">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.gameLinks.rss">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.gameLinks">
+	<remarks/>
+</member><member name="P:Video_Game_Tracker.GamesRadar.NewDataSet.Items">
+	<remarks/>
+</member><member name="T:Video_Game_Tracker.GamesRadar.NewDataSet">
+	<remarks/>
+</member>
+</members>
+</doc>

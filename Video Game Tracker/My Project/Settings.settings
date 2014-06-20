@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Giantbomb_APIKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">fd45d244c96fb59a2b964b4365058370ede12010</Value>
+    </Setting>
+    <Setting Name="GamesRadar_APIKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ca6ccae1024046e4b13f0eb78cda403d</Value>
+    </Setting>
+    <Setting Name="Theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Light</Value>
+    </Setting>
+    <Setting Name="DefaultTab" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Search</Value>
+    </Setting>
+    <Setting Name="Steam_APIKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">7A0174D0FD347D924C381645BB91318B</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
